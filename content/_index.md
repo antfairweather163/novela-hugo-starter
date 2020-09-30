@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: This is Ants heading
+  heading: People Leadership Course
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
